@@ -1,0 +1,30 @@
+.numbers {
+    font-weight: 700;
+}
+
+.good,
+.neutral,
+.bad,
+.positive {
+    text-transform: capitalize;
+    margin: 0;
+    width: 200px;
+    padding: 16px;
+    display: block;
+}
+
+.good {
+    background-color: lightgreen;
+}
+
+.neutral {
+    background-color: lightyellow;
+}
+
+.bad {
+    background-color: lightpink;
+}
+
+.positive {
+    background-color: lightblue;
+}
